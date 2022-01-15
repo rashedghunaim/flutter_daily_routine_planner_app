@@ -1,0 +1,43 @@
+import 'package:flutter/material.dart';
+
+final List<Color?> randomColors = [
+  Colors.amber,
+  Colors.black,
+  Colors.white,
+  Colors.blue,
+  Colors.teal,
+  Colors.cyanAccent,
+  Colors.purple,
+  Colors.pink,
+  Colors.red,
+  Colors.orangeAccent,
+  Colors.indigo,
+  Colors.lightGreen,
+  Colors.deepOrange,
+  Colors.purple[900],
+  Colors.yellow[900],
+  Colors.brown,
+  Colors.grey,
+  Colors.blueGrey,
+  Colors.lightBlueAccent,
+  Color(0xff7A1F34),
+];
+
+const List<IconData> randomIcons = [
+  Icons.add,
+  Icons.more,
+  Icons.money,
+  Icons.zoom_out_map_outlined,
+  Icons.healing,
+  Icons.title,
+  Icons.brush_rounded,
+  Icons.event,
+  Icons.yard_sharp,
+  Icons.done,
+  Icons.arrow_back_ios,
+  Icons.brush_rounded,
+  Icons.wrap_text_sharp,
+  Icons.print,
+  Icons.remove,
+  Icons.keyboard,
+];
